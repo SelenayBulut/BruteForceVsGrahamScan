@@ -24,7 +24,7 @@ Bu proje, düzlemdeki noktaların dışbükey gövdesini (Convex Hull) bulmak i�
 - Deneysel bulgular teorik karmaşıklık analizleriyle uyumludur.
 
 ### Karşılaştırma Grafiği
-![Performans Karşılaştırması](PerformansKarsilastirmaGrafiği.png)
+![Performans Karşılaştırması](PerformansKarşılaştırmaGrafiği.png)
 
 ### Örnek Nokta Kümeleri
 
